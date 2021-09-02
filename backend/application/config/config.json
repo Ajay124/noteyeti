@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Sk4f*3f5(4a&3fa@3#",
+    "database": "noteyeti",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "noteyeti",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Sk4f*3f5(4a&3fa@3#",
+    "database": "noteyeti",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
+

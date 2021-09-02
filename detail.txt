@@ -1,0 +1,26 @@
+dev7invito
+Sk3f*3fkabDev7
+http://dev7.invitocreatives.com/
+Configured on port 3007
+
+for noteyeti
+
+ssh dev7invito@128.199.19.10 -p2112
+
+
+http://128.199.19.10/phpmyadmin
+root
+Sk4f*3f5(4a&3fa@3#
+
+
+
+
+dev7invito
+SkDev7@Inv!ft
+host - 128.199.19.10
+port - 2112
+this one
+
+
+http://react7.invitocreatives.com/
+
